@@ -1,3 +1,5 @@
+![Project Submission logo](https://user-images.githubusercontent.com/40004039/185477226-a36f8c13-3983-4f1e-9891-94911cdb90a2.jpg)
+
 # IPL-2022-Data-Analysis-Project-using-Python
 # Created by
 # 1. Subhamoy Panja (Enrollment no. EBEON0322584752)
